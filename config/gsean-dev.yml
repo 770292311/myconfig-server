@@ -3,7 +3,7 @@ spring:
    name: myconfig-client
  
 server:
-   port: 8889
+   port: 8899
 eureka:
  instance:
    hostname: localhost
