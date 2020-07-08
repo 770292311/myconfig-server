@@ -11,7 +11,7 @@ eureka:
    serviceUrl:
      defaultZone: http://${eureka.instance.hostname}:8061/eureka/
      
-foo: test03
+foo: test
   
 
 
